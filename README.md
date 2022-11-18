@@ -74,7 +74,7 @@ Step 6: Package everything for the final notebook and to be Github ready, create
 
 ### Team Organization
 
-Andy - Change in diversity over time (Step 2), Exploring minority representation (Step 3), prepare datastory website, contribute to final datastory text
-Arvind - Character importance ranking changes overtime, freebase ID remapping, contribute to final datastory text
-Olivia - Change in diversity over time (Step 2), Exploring minority representation (Step 3), Visualizations (Step 5), contribute to final datastory text
-Owen - Change in diversity over time (Step 2), Exploring minority representation (Step 3), Economic Impact explorations (Step 5), contribute to final datastory text
+- Andy: Change in diversity over time (Step 2), Exploring minority representation (Step 3), prepare datastory website, contribute to final datastory text
+- Arvind: Character importance ranking changes overtime, freebase ID remapping, contribute to final datastory text
+- Olivia: Change in diversity over time (Step 2), Exploring minority representation (Step 3), Visualizations (Step 5), contribute to final datastory text
+- Owen: Change in diversity over time (Step 2), Exploring minority representation (Step 3), Economic Impact explorations (Step 5), contribute to final datastory text
