@@ -9,7 +9,6 @@ As the world begins to become more aware of the oppression that minority groups 
 ### Research Questions
 
 - Has there been improvement in diversity regarding ethnicity and gender in the main cast? Crew?
-- Are trends over time genre specific or general?
 - Do movies delegate important roles to minority actors?
 - Is there a correlation between movies that have a minority cast and the movie's budget? Box office performance?
 
