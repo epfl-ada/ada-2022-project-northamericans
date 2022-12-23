@@ -1,5 +1,7 @@
 ## How has representation in film evolved over time?
 
+[Datastory link](https://oliviashii.github.io/ada-website/)
+
 ### Abstract
 
 As the world begins to become more aware of the oppression that minority groups face, representation in the film industry, both on and off screen, has become an increasingly pressing issue. We want to discover if the film industry has made substantial systemic changes to evolve along with society. Using the CMU Movie Summary Corpus dataset, Kaggle's Movie Datasets, and IMDB's Movie Datasets, we will compare the character metadata and crew data of older films to that of more recent films and see disparities in ethnicity and gender using a paired t-test. Further, we can analyze the movie summaries in the CMU datasets to compare how important minority characters to the storyline compared to their co-characters by applying coreference resolution to measure how often they are mentioned in the film plot. These analyses will determine if there have been significant changes in the film industry over time.
@@ -11,18 +13,15 @@ As the world begins to become more aware of the oppression that minority groups 
 - Do movies delegate important roles to minority actors?
 - Is there a correlation between movies that have a minority cast and the movie's budget? Box office performance?
 
-### Proposed Additional Datasets
+### Additional Dataset Used
 
-1. [Kaggle Movies Dataset](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=ratings.csv)
+[Kaggle Movies Dataset](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=ratings.csv)
 This dataset has more information on budget and box office performance, which are valuable metrics to measure
 performance of a movie. The current CMU Movies dataset lacks data on revenue and budget for each movie. We can use movies_metadata.csv in the Kaggle datasets, and get the 'revenue' and 'budget' columns to analyze. By combining this with our current dataset we will reduce the proportion of missing data.
 
-2. [IMDB Datasets](https://datasets.imdbws.com/)
-This dataset contains information on more recent titles. We will use this dataset to further supplement the lack of data on recent movies. In particular, we will use the name.basics and title.principals datasets to gather information on actors and actresses, and combine this with our dataset on actors' and actresses' ethnicities databse from the CMU corpus.
 
 
-
-### Methods
+### Methods Employed
 
 #### Step 1. Data filtering and dataset construction
 
@@ -72,9 +71,9 @@ Step 6: Package everything for the final notebook and to be Github ready, create
     Step 6
 - 23.12.2022 - P3 Milestone Due
 
-### Team Organization
+### Team Contributions (Updated for P3)
 
-- Andy: Change in diversity over time (Step 2), Exploring minority representation (Step 3), prepare datastory website, contribute to final datastory text
-- Arvind: Character importance ranking changes overtime, freebase ID remapping, contribute to final datastory text
-- Olivia: Change in diversity over time (Step 2), Exploring minority representation (Step 3), Visualizations (Step 5), contribute to final datastory text
+- Andy: Change in diversity over time (Step 2), Exploring minority representation (Step 3), Visualizations (Step 5), contribute to final datastory text
+- Arvind: Character importance ranking changes overtime, freebase ID remapping, data prep, contribute to final datastory text, Visualizations (Step 5)
+- Olivia: Change in diversity over time (Step 2), Exploring minority representation (Step 3), Visualizations (Step 5), contribute to final datastory text, prepare datastory website
 - Owen: Change in diversity over time (Step 2), Exploring minority representation (Step 3), Economic Impact explorations (Step 5), contribute to final datastory text
